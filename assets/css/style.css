@@ -58,4 +58,20 @@ body {
     padding: 1em;
     margin-top: 2em;
   }
+  .product {
+    margin: 20px;
+  }
+  
+  .main-photo img {
+    width: 300px;
+    height: auto;
+  }
+  
+  .thumbnails img {
+    width: 60px;
+    margin: 5px;
+    cursor: pointer;
+    border: 2px solid #ddd;
+  }
+  
   
